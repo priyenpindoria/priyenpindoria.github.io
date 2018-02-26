@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:newsid;datatype:string" />
+	<infoitem key="UD_master1flag_post_health" value="name:flag_id;datatype:int,name:newsid;datatype:string,name:reason_for_flag;datatype:string" />
+</info>

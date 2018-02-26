@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_menu" value="name:jobid;datatype:int,name:jobname;datatype:string,name:company;datatype:string,name:location;datatype:string,name:timings;datatype:string,name:salary;datatype:string,name:deadline;datatype:date" />
+	<infoitem key="UD_post" value="name:jobid;datatype:int,name:jobname;datatype:string,name:company;datatype:string,name:number;datatype:string,name:email;datatype:string,name:location;datatype:string,name:timings;datatype:string,name:salary;datatype:string,name:deadline;datatype:date" />
+	<infoitem key="UD_nationality" value="name:countryname;datatype:string,name:nationality;datatype:string" />
+</info>

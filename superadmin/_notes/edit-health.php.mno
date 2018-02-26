@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscustom" value="name:subsectorid;datatype:int,name:newstitle;datatype:int,name:newsdescription;datatype:int,name:image;datatype:int,name:date;datatype:int,name:newsid;datatype:int,name:kt_login_id;datatype:int" />
+	<infoitem key="UD_rshealth" value="name:subsectorid;datatype:int,name:newstitle;datatype:int,name:newsdescription;datatype:int,name:image;datatype:int,name:date;datatype:int,name:newsid;datatype:int" />
+	<infoitem key="UD_rsUser" value="name:logid;datatype:int,name:First Name;datatype:string,name:Last Name;datatype:string,name:Username;datatype:string,name:Email Adress;datatype:string,name:Password;datatype:blob,name:Confirm Password;datatype:blob,name:Date of Birth;datatype:date,name:levelid;datatype:int" />
+	<infoitem key="UD_subsector" value="name:subsector;datatype:string" />
+</info>

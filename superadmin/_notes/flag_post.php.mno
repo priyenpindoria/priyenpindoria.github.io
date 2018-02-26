@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_health_flag" value="name:newsid;datatype:int,name:subsector;datatype:string,name:title;datatype:string,name:description;datatype:blob,name:date;datatype:date" />
+	<infoitem key="UD_health" value="name:newsid;datatype:int,name:subsector;datatype:string,name:title;datatype:string,name:description;datatype:blob,name:date;datatype:date" />
+</info>

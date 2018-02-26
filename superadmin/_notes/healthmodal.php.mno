@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_subsector" value="name:subsector;datatype:string" />
+	<infoitem key="UD_rsDropdown" value="name:subsector;datatype:string" />
+</info>

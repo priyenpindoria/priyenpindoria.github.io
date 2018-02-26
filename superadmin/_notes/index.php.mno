@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUser" value="name:logid;datatype:int,name:First Name;datatype:string,name:Last Name;datatype:string,name:Username;datatype:string,name:Email Adress;datatype:string,name:Password;datatype:blob,name:Confirm Password;datatype:blob,name:Date of Birth;datatype:date,name:levelid;datatype:int" />
+	<infoitem key="UD_rscustom" value="name:kt_login_id;datatype:int" />
+	<infoitem key="UD_users" value="name:logid;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:username;datatype:string,name:email;datatype:string,name:password;datatype:blob,name:dob;datatype:date,name:levelid;datatype:int" />
+	<infoitem key="UD_user" value="name:logid;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:username;datatype:string,name:email;datatype:string,name:password;datatype:blob,name:dob;datatype:date,name:levelid;datatype:int" />
+</info>

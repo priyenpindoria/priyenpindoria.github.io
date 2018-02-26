@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsMake" value="name:make_id;datatype:int,name:make;datatype:string" />
+	<infoitem key="UD_rsModel" value="name:model_id;datatype:int,name:make_id;datatype:int,name:model;datatype:string" />
+</info>

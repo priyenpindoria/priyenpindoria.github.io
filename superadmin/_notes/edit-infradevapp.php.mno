@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscustom" value="name:companyid;datatype:int,name:agreedprice;datatype:int,name:startdate;datatype:int,name:enddate;datatype:int,name:postid;datatype:int,name:kt_login_id;datatype:int" />
+	<infoitem key="UD_rsUser" value="name:logid;datatype:int,name:First Name;datatype:string,name:Last Name;datatype:string,name:Username;datatype:string,name:Email Adress;datatype:string,name:Password;datatype:blob,name:Confirm Password;datatype:blob,name:Date of Birth;datatype:date,name:levelid;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:devid;datatype:int,name:devname;datatype:string,name:devdesc;datatype:string,name:devcompany;datatype:string,name:devnumber;datatype:int,name:devemail;datatype:string,name:devlocation;datatype:string,name:devstdate;datatype:date,name:devduedate;datatype:date" />
+	<infoitem key="UD_Recordset2" value="name:companyname;datatype:string,name:companynumber;datatype:int,name:companyemail;datatype:string" />
+	<infoitem key="UD_dev" value="name:devid;datatype:int,name:devname;datatype:string,name:devdesc;datatype:string,name:devcompany;datatype:string,name:devnumber;datatype:int,name:devemail;datatype:string,name:devlocation;datatype:string,name:devstdate;datatype:date,name:devduedate;datatype:date" />
+	<infoitem key="UD_com" value="name:companyname;datatype:string,name:companynumber;datatype:int,name:companyemail;datatype:string" />
+	<infoitem key="UD_dev1" value="name:devid;datatype:int,name:devname;datatype:string,name:devdesc;datatype:string,name:devcompany;datatype:string,name:devnumber;datatype:int,name:devemail;datatype:string,name:devlocation;datatype:string,name:devstdate;datatype:date,name:devduedate;datatype:date" />
+	<infoitem key="UD_comp" value="name:companyname;datatype:string,name:companynumber;datatype:int,name:companyemail;datatype:string" />
+	<infoitem key="UD_companies" value="name:companyname;datatype:string,name:companynumber;datatype:int,name:companyemail;datatype:string" />
+	<infoitem key="UD_rsinfradev_app" value="name:project;datatype:int,name:developer_company;datatype:int,name:company;datatype:int,name:cost;datatype:int,name:startdate;datatype:int,name:enddate;datatype:int,name:post_id;datatype:int" />
+	<infoitem key="UD_project" value="name:devid;datatype:int,name:devname;datatype:string,name:devdesc;datatype:string,name:devcompany;datatype:string,name:devnumber;datatype:int,name:devemail;datatype:string,name:devlocation;datatype:string,name:devstdate;datatype:date,name:devduedate;datatype:date" />
+</info>

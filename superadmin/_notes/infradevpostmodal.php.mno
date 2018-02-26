@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsinfradev_post" value="name:devname;datatype:int,name:devdesc;datatype:int,name:devcompany;datatype:int,name:devnumber;datatype:int,name:devemail;datatype:int,name:devlocation;datatype:int,name:devstdate;datatype:int,name:devduedate;datatype:int,name:devid;datatype:int" />
+	<infoitem key="UD_rscustom" value="name:devname;datatype:int,name:devdesc;datatype:int,name:devcompany;datatype:int,name:devnumber;datatype:int,name:devemail;datatype:int,name:devlocation;datatype:int,name:devstdate;datatype:int,name:devduedate;datatype:int,name:devid;datatype:int,name:kt_login_id;datatype:int" />
+</info>

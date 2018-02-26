@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_menurecord" value="name:envid;datatype:int,name:envname;datatype:string" />
+	<infoitem key="UD_menu" value="name:subsector;datatype:string" />
+	<infoitem key="UD_menu1" value="name:subsector;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:subsector;datatype:string" />
+	<infoitem key="UD_dance" value="name:envid;datatype:int,name:envname;datatype:string" />
+	<infoitem key="UD_educdrop" value="name:educationid;datatype:int,name:educationname;datatype:string" />
+	<infoitem key="UD_educnam" value="name:educationid;datatype:int,name:educationname;datatype:string" />
+	<infoitem key="UD_company" value="name:companyid;datatype:int,name:companyname;datatype:string,name:companynumber;datatype:int,name:companyemail;datatype:string" />
+	<infoitem key="UD_jobid" value="name:jobid;datatype:int,name:jobname;datatype:string,name:company;datatype:string,name:location;datatype:string,name:timings;datatype:string,name:salary;datatype:string,name:deadline;datatype:date" />
+</info>

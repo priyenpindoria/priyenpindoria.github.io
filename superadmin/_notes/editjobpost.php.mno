@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscustom" value="name:jobname;datatype:int,name:company;datatype:int,name:location;datatype:int,name:timings;datatype:int,name:salary;datatype:int,name:deadline;datatype:int,name:jobid;datatype:int,name:kt_login_id;datatype:int" />
+	<infoitem key="UD_rsjobs_post" value="name:jobname;datatype:int,name:company;datatype:int,name:location;datatype:int,name:timings;datatype:int,name:salary;datatype:int,name:deadline;datatype:int,name:jobid;datatype:int" />
+	<infoitem key="UD_rsUser" value="name:logid;datatype:int,name:First Name;datatype:string,name:Last Name;datatype:string,name:Username;datatype:string,name:Email Adress;datatype:string,name:Password;datatype:blob,name:Confirm Password;datatype:blob,name:Date of Birth;datatype:date,name:levelid;datatype:int" />
+</info>

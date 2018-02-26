@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_Session1" value="kt_login_id" />
+	<infoitem key="MM_Session_Count" value="3" />
+	<infoitem key="MM_Session2" value="kt_login_user" />
+	<infoitem key="MM_Session3" value="kt_login_level" />
+	<infoitem key="MM_URL1" value="newsid" />
+	<infoitem key="MM_URL_Count" value="7" />
+	<infoitem key="MM_URL2" value="educid" />
+	<infoitem key="MM_URL3" value="jobid" />
+	<infoitem key="MM_URL4" value="applicantid" />
+	<infoitem key="MM_URL5" value="post_id" />
+	<infoitem key="MM_URL6" value="devid" />
+	<infoitem key="MM_URL7" value="environid" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edudropdown" value="name:educationid;datatype:int,name:educationname;datatype:string" />
+	<infoitem key="UD_educnam" value="name:educationid;datatype:int,name:educationname;datatype:string" />
+	<infoitem key="UD_rseducation" value="name:educationid;datatype:int,name:educname;datatype:int,name:educdesc;datatype:int,name:educloca;datatype:int,name:educdate;datatype:int,name:educid;datatype:int" />
+</info>

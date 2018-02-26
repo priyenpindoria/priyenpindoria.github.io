@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscustom" value="name:applicantname;datatype:int,name:jobid;datatype:int,name:idnumber;datatype:int,name:Nationality;datatype:int,name:prevexperiences;datatype:int,name:dob;datatype:int,name:email;datatype:int,name:photo;datatype:int,name:applicantid;datatype:int,name:kt_login_id;datatype:int" />
+	<infoitem key="UD_rsjobs_app" value="name:applicantname;datatype:int,name:jobid;datatype:int,name:idnumber;datatype:int,name:Nationality;datatype:int,name:prevexperiences;datatype:int,name:dob;datatype:int,name:email;datatype:int,name:applicantid;datatype:int" />
+	<infoitem key="UD_rsUser" value="name:logid;datatype:int,name:First Name;datatype:string,name:Last Name;datatype:string,name:Username;datatype:string,name:Email Adress;datatype:string,name:Password;datatype:blob,name:Confirm Password;datatype:blob,name:Date of Birth;datatype:date,name:levelid;datatype:int" />
+	<infoitem key="UD_jobid" value="name:jobid;datatype:int,name:jobname;datatype:string,name:company;datatype:string,name:location;datatype:string,name:timings;datatype:string,name:salary;datatype:string,name:deadline;datatype:date" />
+	<infoitem key="UD_Recordset1" value="name:jobid;datatype:int,name:jobname;datatype:string,name:company;datatype:string,name:location;datatype:string,name:timings;datatype:string,name:salary;datatype:string,name:deadline;datatype:date" />
+	<infoitem key="UD_menu" value="name:jobid;datatype:int,name:jobname;datatype:string,name:company;datatype:string,name:location;datatype:string,name:timings;datatype:string,name:salary;datatype:string,name:deadline;datatype:date" />
+	<infoitem key="UD_nationality" value="name:countryname;datatype:string,name:nationality;datatype:string" />
+	<infoitem key="UD_post" value="name:jobid;datatype:int,name:jobname;datatype:string,name:company;datatype:string,name:number;datatype:string,name:email;datatype:string,name:location;datatype:string,name:timings;datatype:string,name:salary;datatype:string,name:deadline;datatype:date" />
+</info>

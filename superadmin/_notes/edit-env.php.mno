@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscustom" value="name:envsubsec;datatype:int,name:environname;datatype:int,name:environdesc;datatype:int,name:environloca;datatype:int,name:environdate;datatype:int,name:environid;datatype:int,name:kt_login_id;datatype:int" />
+	<infoitem key="UD_rsenvironment" value="name:envsubsec;datatype:int,name:environname;datatype:int,name:environdesc;datatype:int,name:environloca;datatype:int,name:environdate;datatype:int,name:environid;datatype:int" />
+	<infoitem key="UD_rsUser" value="name:logid;datatype:int,name:First Name;datatype:string,name:Last Name;datatype:string,name:Username;datatype:string,name:Email Adress;datatype:string,name:Password;datatype:blob,name:Confirm Password;datatype:blob,name:Date of Birth;datatype:date,name:levelid;datatype:int" />
+	<infoitem key="UD_subsector" value="name:envname;datatype:string" />
+</info>

@@ -1,0 +1,41 @@
+<style>
+body {
+	background: #DDDDDD;
+	
+	}  
+  
+  
+a { 
+	color:#000;
+	text-decoration: none;
+	font-size: 12px;
+}  
+
+tbody { 
+	text-align: left;
+	}
+	
+.KT_tnglist {
+	border-radius: 10px;
+	padding: 2px;
+	margin: auto;
+	}  
+	
+.KT_tng h1 {
+	font-family: Times New Roman;
+	font-size: 20px;
+	text-align: left;
+	font-weight: normal;
+	text-align: center;
+	
+	}  
+	
+.KT_tnglist th {
+	background-color: #ea6153;
+	color: #FFF;
+	
+	}  
+  
+  
+  
+</style>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscustom" value="name:firstname;datatype:int,name:lastname;datatype:int,name:username;datatype:int,name:email;datatype:int,name:password;datatype:int,name:dob;datatype:int,name:levelid;datatype:int,name:logid;datatype:int,name:kt_login_user;datatype:int,name:kt_login_password;datatype:int,name:kt_login_rememberme;datatype:int" />
+	<infoitem key="UD_rslogin_admin" value="name:firstname;datatype:int,name:lastname;datatype:int,name:username;datatype:int,name:email;datatype:int,name:password;datatype:int,name:dob;datatype:int,name:levelid;datatype:int,name:logid;datatype:int" />
+</info>

@@ -1,0 +1,51 @@
+<style>
+.header {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #00F;
+	text-align: center;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #7E80B4;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+body {
+	background-color: #DDDDDD;
+	background-repeat: repeat-x;
+
+}
+
+h1 {
+	text-align: center;
+	color: white;
+
+}
+
+.KT_tngform {
+	margin-left: 400px;
+	border-radius: 50px;
+	padding: 20px;
+}
+
+.KT_bottombuttons {
+	text-align: center;
+
+	}
+
+</style>
